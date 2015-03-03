@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menora", "Menora.csproj", "{FBDADA30-D9C0-4A43-A0FC-EB6A043E6BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDADA30-D9C0-4A43-A0FC-EB6A043E6BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDADA30-D9C0-4A43-A0FC-EB6A043E6BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDADA30-D9C0-4A43-A0FC-EB6A043E6BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDADA30-D9C0-4A43-A0FC-EB6A043E6BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
